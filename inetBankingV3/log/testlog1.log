@@ -1,0 +1,107 @@
+2024-06-30 14:49:38,661 [main] INFO ebanking - URL Opened
+2024-06-30 14:49:38,762 [main] INFO ebanking - UserName Entered Successfully
+2024-06-30 14:49:38,820 [main] INFO ebanking - Password Entered Successfully
+2024-06-30 14:49:39,952 [main] INFO ebanking - TC_LoginTest_001 PASSED
+2024-06-30 15:09:36,692 [main] INFO ebanking - URL Opened
+2024-06-30 15:09:36,834 [main] INFO ebanking - UserName Entered Successfully
+2024-06-30 15:09:36,890 [main] INFO ebanking - Password Entered Successfully
+2024-06-30 15:09:38,001 [main] INFO ebanking - TC_LoginTest_001 PASSED
+2024-06-30 15:48:12,107 [main] INFO ebanking - URL Opened
+2024-06-30 15:48:12,211 [main] INFO ebanking - UserName Entered Successfully
+2024-06-30 15:48:12,273 [main] INFO ebanking - Password Entered Successfully
+2024-06-30 15:48:13,415 [main] INFO ebanking - TC_LoginTest_001 PASSED
+2024-06-30 15:48:40,758 [main] INFO ebanking - URL Opened
+2024-06-30 15:48:40,856 [main] INFO ebanking - UserName Entered Successfully
+2024-06-30 15:48:40,908 [main] INFO ebanking - Password Entered Successfully
+2024-06-30 15:49:23,697 [main] INFO ebanking - URL Opened
+2024-06-30 15:49:23,792 [main] INFO ebanking - UserName Entered Successfully
+2024-06-30 15:49:23,849 [main] INFO ebanking - Password Entered Successfully
+2024-06-30 15:49:24,944 [main] INFO ebanking - TC_LoginTest_001 PASSED
+2024-06-30 15:50:22,497 [main] INFO ebanking - URL Opened
+2024-06-30 15:50:22,599 [main] INFO ebanking - UserName Entered Successfully
+2024-06-30 15:50:22,656 [main] INFO ebanking - Password Entered Successfully
+2024-06-30 15:50:25,017 [main] INFO ebanking - TC_LoginTest_001 PASSED
+2024-06-30 16:41:49,833 [main] INFO ebanking - URL Opened
+2024-06-30 16:41:49,941 [main] INFO ebanking - UserName Entered Successfully
+2024-06-30 16:41:50,004 [main] INFO ebanking - Password Entered Successfully
+2024-06-30 16:41:52,400 [main] INFO ebanking - TC_LoginTest_001 PASSED
+2024-07-05 21:22:17,461 [main] INFO ebanking - URL Opened
+2024-07-05 21:22:17,632 [main] INFO ebanking - UserName Entered Successfully
+2024-07-05 21:22:17,732 [main] INFO ebanking - Password Entered Successfully
+2024-07-05 21:22:20,027 [main] INFO ebanking - TC_LoginTest_001 PASSED
+2024-07-05 21:57:51,514 [main] INFO ebanking - URL Opened
+2024-07-05 21:57:51,631 [main] INFO ebanking - UserName Entered Successfully
+2024-07-05 21:57:51,687 [main] INFO ebanking - Password Entered Successfully
+2024-07-05 21:57:53,081 [main] INFO ebanking - TC_LoginTest_001 PASSED
+2024-07-06 14:11:30,479 [main] INFO ebanking - URL Opened
+2024-07-06 14:11:30,588 [main] INFO ebanking - UserName Entered Successfully
+2024-07-06 14:11:30,646 [main] INFO ebanking - Password Entered Successfully
+2024-07-06 14:11:33,051 [main] INFO ebanking - TC_LoginTest_001 PASSED
+2024-07-06 14:29:45,249 [main] INFO ebanking - URL Opened
+2024-07-06 14:29:45,355 [main] INFO ebanking - UserName Entered Successfully
+2024-07-06 14:29:45,408 [main] INFO ebanking - Password Entered Successfully
+2024-07-06 14:29:47,138 [main] INFO ebanking - TC_LoginTest_001 PASSED
+2024-07-06 14:32:28,434 [main] INFO ebanking - URL Opened
+2024-07-06 14:32:28,658 [main] INFO ebanking - UserName Entered Successfully
+2024-07-06 14:32:28,765 [main] INFO ebanking - Password Entered Successfully
+2024-07-06 14:32:30,588 [main] INFO ebanking - TC_LoginTest_001 PASSED
+2024-07-06 14:41:07,423 [main] INFO ebanking - URL Opened
+2024-07-06 14:41:07,524 [main] INFO ebanking - UserName Entered Successfully
+2024-07-06 14:41:07,577 [main] INFO ebanking - Password Entered Successfully
+2024-07-06 14:41:09,433 [main] INFO ebanking - TC_LoginTest_001 PASSED
+2024-07-06 14:45:52,661 [main] INFO ebanking - URL Opened
+2024-07-06 14:45:52,769 [main] INFO ebanking - UserName Entered Successfully
+2024-07-06 14:45:52,829 [main] INFO ebanking - Password Entered Successfully
+2024-07-06 14:45:54,525 [main] INFO ebanking - TC_LoginTest_001 PASSED
+2024-07-06 15:09:55,157 [main] INFO ebanking - URL Opened
+2024-07-06 15:09:55,302 [main] INFO ebanking - UserName Entered Successfully
+2024-07-06 15:09:55,363 [main] INFO ebanking - Password Entered Successfully
+2024-07-06 15:13:32,142 [main] INFO ebanking - URL Opened
+2024-07-06 15:13:32,251 [main] INFO ebanking - UserName Entered Successfully
+2024-07-06 15:13:32,306 [main] INFO ebanking - Password Entered Successfully
+2024-07-06 15:13:33,974 [main] INFO ebanking - TC_LoginTest_001 PASSED
+2024-07-06 15:14:27,707 [main] INFO ebanking - URL Opened
+2024-07-06 15:14:27,878 [main] INFO ebanking - UserName Entered Successfully
+2024-07-06 15:14:27,934 [main] INFO ebanking - Password Entered Successfully
+2024-07-06 15:16:07,487 [main] INFO ebanking - URL Opened
+2024-07-06 15:16:07,585 [main] INFO ebanking - UserName Entered Successfully
+2024-07-06 15:16:07,659 [main] INFO ebanking - Password Entered Successfully
+2024-07-06 15:25:45,210 [main] INFO ebanking - URL Opened
+2024-07-06 15:25:45,309 [main] INFO ebanking - UserName Entered Successfully
+2024-07-06 15:25:45,375 [main] INFO ebanking - Password Entered Successfully
+2024-07-06 15:40:46,394 [main] INFO ebanking - URL Opened
+2024-07-06 15:40:46,507 [main] INFO ebanking - UserName Entered Successfully
+2024-07-06 15:40:46,563 [main] INFO ebanking - Password Entered Successfully
+2024-07-06 15:41:21,793 [main] INFO ebanking - URL Opened
+2024-07-06 15:41:21,889 [main] INFO ebanking - UserName Entered Successfully
+2024-07-06 15:41:21,946 [main] INFO ebanking - Password Entered Successfully
+2024-07-06 15:42:01,426 [main] INFO ebanking - URL Opened
+2024-07-06 15:42:01,523 [main] INFO ebanking - UserName Entered Successfully
+2024-07-06 15:42:01,586 [main] INFO ebanking - Password Entered Successfully
+2024-07-06 15:42:03,274 [main] INFO ebanking - TC_LoginTest_001 PASSED
+2024-07-21 22:36:03,025 [main] INFO ebanking - URL Opened
+2024-07-21 22:36:03,192 [main] INFO ebanking - UserName Entered Successfully
+2024-07-21 22:36:03,269 [main] INFO ebanking - Password Entered Successfully
+2024-07-22 23:36:11,458 [main] INFO ebanking - URL Opened
+2024-07-22 23:36:11,619 [main] INFO ebanking - UserName Entered Successfully
+2024-07-22 23:36:11,687 [main] INFO ebanking - Password Entered Successfully
+2024-07-22 23:40:09,619 [main] INFO ebanking - URL Opened
+2024-07-22 23:40:09,735 [main] INFO ebanking - UserName Entered Successfully
+2024-07-22 23:40:09,791 [main] INFO ebanking - Password Entered Successfully
+2024-07-24 11:30:23,251 [main] INFO ebanking - URL Opened
+2024-07-24 11:30:23,427 [main] INFO ebanking - UserName Entered Successfully
+2024-07-24 11:30:23,494 [main] INFO ebanking - Password Entered Successfully
+2024-07-24 11:33:07,536 [main] INFO ebanking - URL Opened
+2024-07-24 11:33:07,640 [main] INFO ebanking - UserName Entered Successfully
+2024-07-24 11:33:07,704 [main] INFO ebanking - Password Entered Successfully
+2024-07-24 11:33:59,803 [main] INFO ebanking - URL Opened
+2024-07-24 11:33:59,933 [main] INFO ebanking - UserName Entered Successfully
+2024-07-24 11:34:00,022 [main] INFO ebanking - Password Entered Successfully
+2024-07-24 11:34:01,708 [main] INFO ebanking - TC_LoginTest_001 PASSED
+2024-07-26 19:27:48,521 [main] INFO ebanking - URL Opened
+2024-07-26 19:27:48,650 [main] INFO ebanking - UserName Entered Successfully
+2024-07-26 19:27:48,716 [main] INFO ebanking - Password Entered Successfully
+2024-07-26 19:27:50,412 [main] INFO ebanking - TC_LoginTest_001 PASSED
+2024-09-19 23:43:47,665 [main] INFO ebanking - URL Opened
+2024-09-19 23:43:47,824 [main] INFO ebanking - UserName Entered Successfully
+2024-09-19 23:43:47,890 [main] INFO ebanking - Password Entered Successfully
